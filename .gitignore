@@ -1,0 +1,11 @@
+# Publish only the lighting documents. Everything else stays on this computer.
+# This is an allowlist: a new file is ignored until it is named here.
+/*
+!/.gitignore
+!/README.md
+!/exterior_lighting/
+/exterior_lighting/*
+!/exterior_lighting/README.md
+!/exterior_lighting/light_runs.pdf
+!/exterior_lighting/product_sheet.pdf
+!/exterior_lighting/roof_edge_lighting.pdf
